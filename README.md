@@ -1,4 +1,4 @@
-# rest-api-python-flask-online-marketplace
+# REST API for an online marketplace using Python and Flask
 
 I created this REST API for an online marketplace with multiple stores, each store's items and prices.
 
